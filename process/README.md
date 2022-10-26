@@ -1,7 +1,7 @@
 # Waiting
 For this project, I was curious about the notion of waiting. 
 
-##How much time I wait in a day
+## How much time I wait in a day
 8:05->8:12 (7 minutes) = waiting for the bus
 8:12->8:42 (30 minutes) = waiting for the bus to arrive at destination
 8:50->9:00 (10 minutes) = waiting for the class to start

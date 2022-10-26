@@ -122,6 +122,10 @@ How Bees organize their time to have the less "nothing" time as possible
 *"most mammals become bored when they stop learning about their environment or stop having new experiences. Scientists theorise that they evolved this way to be prompted to explore and find more suitable habitats or richer food sources."*
 [Why being bored is stimulating – and useful, too] (https://www.newscientist.com/article/mg22730360-600-why-being-bored-is-stimulating-and-useful-too/)
 
+
+*"Tarantulas, as well as other insects, do not become bored. This is because they don’t have the brain complexity to feel the need to explore and seek new knowledge. When a tarantula isn’t moving, it is simply content with having no threats to its survival."*
+[Do tarantulas get bored?] (https://animal-club.co.uk/do-tarantulas-get-bored/)
+
 ### Projection into the future and remembering the past
 [Remembering the past and planning for the future in rats] (https://www.sciencedirect.com/science/article/abs/pii/S0376635712002495)
 

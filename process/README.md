@@ -2,14 +2,14 @@
 For this project, I was curious about the notion of waiting. 
 
 ## How much time I wait in a day
-8:05->8:12 (7 minutes) = waiting for the bus
-8:12->8:42 (30 minutes) = waiting for the bus to arrive at destination
-8:50->9:00 (10 minutes) = waiting for the class to start
-10:33->10:34 (1 minute) = waiting for the coffee machine to make a coffee
-12:20->12:30 (10 minutes) = waiting in line for la caisse de la Migros + wait for the others to finish
-12:43->12:50 (7 minutes) = waiting in line for microwave + for microwave to finish
-17:10->18:30 (1h) = waiting for the bus and to arrive 
-20:30->21:00 = waiting for the thing I’m eating to bake
+- 8:05->8:12 (7 minutes) = waiting for the bus
+- 8:12->8:42 (30 minutes) = waiting for the bus to arrive at destination
+- 8:50->9:00 (10 minutes) = waiting for the class to start
+- 10:33->10:34 (1 minute) = waiting for the coffee machine to make a coffee
+- 12:20->12:30 (10 minutes) = waiting in line for la caisse de la Migros + wait for the others to finish
+- 12:43->12:50 (7 minutes) = waiting in line for microwave + for microwave to finish
+- 17:10->18:30 (1h) = waiting for the bus and to arrive 
+- 20:30->21:00 = waiting for the thing I’m eating to bake
 
 
 ## What I do when I wait

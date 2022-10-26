@@ -110,8 +110,6 @@ https://www.bbc.com/news/science-environment-24078179
 *"All cold-blooded animals spend an unexpectedly large pro-portion of their time doing nothing at all, or at any rate,nothing in particular."* C.Elton
 
 <img width="889" alt="time spent for animals" src="https://user-images.githubusercontent.com/116265979/197981168-68629265-bb91-4a87-ab64-452ce665062c.png">
-
-
 [Time Resources and Laziness in Animals] (https://link.springer.com/article/10.1007/BF00349198)
 
 How Bees organize their time to have the less "nothing" time as possible
@@ -119,8 +117,10 @@ How Bees organize their time to have the less "nothing" time as possible
 <img width="440" alt="no-task-bee-2" src="https://user-images.githubusercontent.com/116265979/197984367-a260f2c5-c338-4871-9fdc-c727cecf84cb.png">
 
 <img width="522" alt="no-task-bee" src="https://user-images.githubusercontent.com/116265979/197984035-9431b4ec-7d48-41ff-918e-262af712e782.png">
-
 [TaskSelSim: a model of the self-organization of the division of labour in honeybees](https://www.tandfonline.com/doi/full/10.1080/13873950701846662)
+
+*"most mammals become bored when they stop learning about their environment or stop having new experiences. Scientists theorise that they evolved this way to be prompted to explore and find more suitable habitats or richer food sources."*
+[Why being bored is stimulating – and useful, too] (https://www.newscientist.com/article/mg22730360-600-why-being-bored-is-stimulating-and-useful-too/)
 
 ### Projection into the future and remembering the past
 [Remembering the past and planning for the future in rats] (https://www.sciencedirect.com/science/article/abs/pii/S0376635712002495)

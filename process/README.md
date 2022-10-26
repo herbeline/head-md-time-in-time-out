@@ -1,5 +1,5 @@
-# Waiting
-For this project, I was curious about the notion of waiting. 
+# Waiting & attempts on speeding up or slowing down time
+
 
 ## How much time I wait in a day
 - 8:05->8:12 (7 minutes) = waiting for the bus

@@ -118,7 +118,7 @@ https://www.bbc.com/news/science-environment-24078179
 [Remembering the past and planning for the future in rats] (https://www.sciencedirect.com/science/article/abs/pii/S0376635712002495)
 
 *A recent study has found that Rufous hummingbirds time the interval between successive visits to flowers that replenish at different rates.*
-https://www.sciencedirect.com/science/article/pii/S0960982206012498
+[Animal Behavior: Timing in the Wild] (https://www.sciencedirect.com/science/article/pii/S0960982206012498)
 
 
 

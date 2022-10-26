@@ -119,6 +119,7 @@ How Bees organize their time to have the less "nothing" time as possible
 <img width="522" alt="no-task-bee" src="https://user-images.githubusercontent.com/116265979/197984035-9431b4ec-7d48-41ff-918e-262af712e782.png">
 [TaskSelSim: a model of the self-organization of the division of labour in honeybees](https://www.tandfonline.com/doi/full/10.1080/13873950701846662)
 
+
 *"most mammals become bored when they stop learning about their environment or stop having new experiences. Scientists theorise that they evolved this way to be prompted to explore and find more suitable habitats or richer food sources."*
 [Why being bored is stimulating – and useful, too] (https://www.newscientist.com/article/mg22730360-600-why-being-bored-is-stimulating-and-useful-too/)
 

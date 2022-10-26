@@ -104,7 +104,7 @@
 Small animals perceive time in slow motion
 https://www.bbc.com/news/science-environment-24078179
 
-### Laziness in animals
+### Laziness in animals & notion of "doing nothing"
 *"The question of why these beasts are often idle is investigated by examining their foraging behavior in a model which does not utilize optimization criteria. If an organism's goal is to stay alive, one satisfactory strategy is a thermostat feeding process whereby the animal initiates foraging when it perceives hunger and ceases when it becomes satiated."*
 https://link.springer.com/article/10.1007/BF00349198
 

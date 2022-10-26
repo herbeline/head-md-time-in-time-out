@@ -9,7 +9,8 @@
 - 12:20->12:30 (10 minutes) = waiting in line for la caisse de la Migros + wait for the others to finish
 - 12:43->12:50 (7 minutes) = waiting in line for microwave + for microwave to finish
 - 17:10->18:30 (1h) = waiting for the bus and to arrive 
-- 20:30->21:00 = waiting for the thing I’m eating to bake
+- 20:30->21:00 (30minutes)= waiting for the thing I’m eating to bake
+- 00:00->00:15 (15 minutes)= waiting to fall asleep
 
 
 ## What I do when I wait

@@ -100,12 +100,15 @@
 - At the kindergarten for my children
 
 ## How do animals perceive time ?
+### Different space-time than humans
 Small animals perceive time in slow motion
 https://www.bbc.com/news/science-environment-24078179
 
+### Laziness in animals
 *"The question of why these beasts are often idle is investigated by examining their foraging behavior in a model which does not utilize optimization criteria. If an organism's goal is to stay alive, one satisfactory strategy is a thermostat feeding process whereby the animal initiates foraging when it perceives hunger and ceases when it becomes satiated."*
 https://link.springer.com/article/10.1007/BF00349198
 
+### Projection into the future and remembering the past
 Remembering the past and planning for the future in rats
 https://www.sciencedirect.com/science/article/abs/pii/S0376635712002495
 

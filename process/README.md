@@ -146,3 +146,6 @@ Dr Luke McNallySchool of Biological Sciences
 
 <img width="1295" alt="Capture d’écran 2022-10-27 à 11 57 04" src="https://user-images.githubusercontent.com/116265979/198254423-75d80d27-c217-46b3-bb1d-16cd968643d4.png">
 
+Generally the smaller an animal is, and the faster its metabolic rate, the slower time passes.
+[Metabolic rate and body size are linked with perception of temporal information](https://www.sciencedirect.com/science/article/pii/S0003347213003060)
+
